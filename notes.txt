@@ -1,0 +1,31 @@
+client server ko request bhejta hai browser ke through
+request jaise ki mujhe yt dekhna hai toh ek code gaya, website ko code mein kaise convert karna hai? vo kaam browser ka hai
+
+client brower pe jaata hai ki mujhe youtube dedo
+broweser server ke paas jaata hai
+server ya toh de dega ya bolega error hai ya mila nahi
+agar sab theek raha toh response 200 deta hai
+
+then client ke  paas vapas aata hai
+
+server sab kuch images icons gif jo bhi page mein hai vo bhejta hai
+and yeh browser ka kaam hai ki vo sab sahi se dikhaye
+
+assume client as you browser as waiter and server as restaurant.
+now you order something let's say google.com
+it's rarely that it says error 404 food not found or error 500 restaurant closed
+
+
+infinite loop
+
+client ne request browser ko bheji, browser ne server ko, server ne process ki, uske fir browser ko bheja and then fir browser ne client ko bheja
+
+backend is the server side of website
+it stores and arranges data and also makes sure everything on the client side works fine. It's part of website you cannot see or interact with
+it is the portion of software that does not come in direct contact with the users
+
+i.e. agar mene kuch google search kiya toh format same hai, toh iss system ko generate karne ki prakriya kis system ke through ho rahi hai vahi backend hai
+
+frontend
+HTML-astitva body CSS-styles JS-interactive
+browser ka kaam - HTML ka parse karna
